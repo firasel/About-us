@@ -37,4 +37,31 @@
 			</div>
 		</div>
 	</div>
+	<div class="container mt-28">
+		<h1 class="text-center text-[50px] font-medium leading-[57px] text-[#17AEA4] mb-14">
+			How it Work
+		</h1>
+		<div class="grid grid-cols-1 md:grid-cols-3 gap-12 text-center relative">
+			<div class="px-8 py-20 border-[3px] rounded-[20px] border-primary">
+				<h2 class="text-[40px] font-medium leading-[46px] capitalize mb-9">Copy Long URL</h2>
+				<p class="text-[20px] font-light text-black leading-[34px] break-words">
+					https://www.thrdailystar.net/business/global-economy/news/german-industrial-output-falls-more-expected-3241836
+				</p>
+			</div>
+			<div class="px-8 py-20 border-[3px] rounded-[20px] border-primary">
+				<h2 class="text-[40px] font-medium leading-[46px] capitalize mb-14">
+					Paste into the sortener ber
+				</h2>
+				<p class="text-[20px] font-light text-black leading-[34px] break-words">
+					Random short: Teely.me/TreRB6T or Brand short: Teel.me /DIFT02023
+				</p>
+			</div>
+			<div class="px-8 py-20 border-[3px] rounded-[20px] border-primary">
+				<h2 class="text-[40px] font-medium leading-[46px] capitalize mb-14">track every click</h2>
+				<p class="text-[20px] font-light text-black leading-[34px] break-words">
+					Track every click on hourly, daily, monthly, and yearly basis.
+				</p>
+			</div>
+		</div>
+	</div>
 </section>
